@@ -1,3 +1,6 @@
 UECFOOD100_CROP/
 .ipynb_checkpoints/
 *.zip
+uec100_inceptv3/
+uec100_resnet/
+uec100_VGG16/
